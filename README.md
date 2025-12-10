@@ -70,9 +70,12 @@
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-gamma-five-66.vercel.app/api?username=KrushnaD7&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats-gamma-five-66.vercel.app/api/top-langs/?username=KrushnaD7&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://raw.githubusercontent.com/ashutosh00710/github-readme-stats/master/api?username=KrushnaD7&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://raw.githubusercontent.com/ashutosh00710/github-readme-stats/master/api/top-langs/?username=KrushnaD7&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
+
+
 
 
 
