@@ -48,7 +48,7 @@
 
 ## **Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" height="50"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" height="50"/>
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
 </p>
 
@@ -70,9 +70,10 @@
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=KrushnaD7&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrushnaD7&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats-gamma-five-66.vercel.app/api?username=KrushnaD7&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats-gamma-five-66.vercel.app/api/top-langs/?username=KrushnaD7&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
 
 
 ---
