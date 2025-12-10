@@ -12,10 +12,16 @@
 ---
 
 
-<!-- PROFILE LOGO -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KrushnaD7/KrushnaD7/main/kd_logo.png" width="120" alt="KD Logo"/>
+  <img src="https://i.pinimg.com/originals/30/3d/c7/303dc7d460a7615cba2c9545ad022d06.gif" width="700">
 </p>
+<p align="center">
+  <img src="https://i.gifer.com/origin/90/908b70ece80b2386b7f10f8917ac12b1.gif" width="600">
+</p>
+<p align="center">
+  <img src="https://i.gifer.com/3HeO.gif" width="600">
+</p>
+
 
 
 ---
