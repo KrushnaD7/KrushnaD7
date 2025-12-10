@@ -21,73 +21,92 @@
 
 ---
 
-## 🛠️ Skills (Learning + Improving)
+
+
+
+## 🛠 Tech Stack  
 
 ### **Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
-### **Data Analysis (Learning)**
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+### **Data Analysis**
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+</p>
 
-### **Data Visualization (Learning)**
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4A4A55?logo=python&logoColor=white)
+### **Data Visualization**
+<p>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-4A4A55?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
 ### **Databases**
-![SQL](https://img.shields.io/badge/SQL-025E8C?logo=mysql&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
-### **Computer Vision (Learning)**
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
+### **Computer Vision**
+<p>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+</p>
 
 ### **Tools**
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
-![Colab](https://img.shields.io/badge/Google_Colab-F9AB00?logo=googlecolab&logoColor=white)
-
----
-
-## 📂 Featured Projects
-
-### 🔹 **DSA (Python)**
-Python programs, logic building, problems & college practicals.
-
-🔗 Repo: **https://github.com/KrushnaD7/DSA**
-
----
-
-### 🔹 **Bank Management System**
-A Python project using file handling to simulate basic bank operations.
-
-🔗 Repo: **https://github.com/KrushnaD7/Bank-Management-System**
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=KrushnaD7&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrushnaD7&layout=compact&theme=tokyonight" />
+<p>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
 </p>
 
 ---
 
-## 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=KrushnaD7&theme=tokyonight" />
+## 🎯 Problem Solving Platforms
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
 </p>
 
 ---
 
-## 🌐 Connect With Me
-
-📧 **Email:** krushna21dodke@gmail.com  
-🐙 **GitHub:** https://github.com/KrushnaD7  
+## 🤝 Connect With Me  
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:krushna.dodke@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
 
 ---
+
+## 🎯 Current Focus
+- Learning **Data Science**
+- Improving **Python & DSA**
+- Working on **Projects**
+- Learning **OpenCV**
+
+---
+
+## 📊 GitHub Contribution Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KrushnaD7&theme=react-dark"/>
+</p>
+
+---
+
+## 📈 GitHub Stats  
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=KrushnaD7&show_icons=true&theme=radical"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrushnaD7&layout=compact&theme=radical"/>
+</p>
+
+---
+
+<p align="center">Made with 💙 by <b>KrushnaD7</b></p>
+
 
 ## ❤️ Support
 
