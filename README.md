@@ -29,10 +29,10 @@
 
 ## **Data Analysis**
 <p>
-  <img src="https://skillicons.dev/icons?i=python" height="50"/>
-  <img src="https://skillicons.dev/icons?i=numpy" height="50"/>
-  <img src="https://skillicons.dev/icons?i=pandas" height="50"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
+
 
 ## **Data Visualization**
 <p>
@@ -63,16 +63,17 @@
 
 ---
 
-# 📈 GitHub Analytics (Graph + Stats Combined)
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=KrushnaD7&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KrushnaD7&theme=tokyo-night&hide_border=true&area=true&custom_title=Krushna%20Dodke's%20Contribution%20Graph" width="95%"/>
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=KrushnaD7&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=KrushnaD7&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrushnaD7&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
 
 ---
 
