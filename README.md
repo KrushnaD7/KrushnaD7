@@ -11,14 +11,16 @@
 
 ---
 
-<!-- KD MINI LOGO -->
+
+<!-- PROFILE LOGO -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KrushnaD7/KrushnaD7/main/kd_logo.png" width="90" />
+  <img src="https://raw.githubusercontent.com/KrushnaD7/KrushnaD7/main/kd_logo.png" width="120" alt="KD Logo"/>
 </p>
 
----
 
 ---
+
+
 
 ## 🌟 About Me
 - 🐍 Python Developer  
@@ -81,9 +83,9 @@
 --- -->
 
 
----
 
-# 🎯 Problem Solving Platforms
+
+# Problem Solving Platforms
 <p>
   <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
   <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
@@ -92,7 +94,7 @@
 
 ---
 
-# 📊 GitHub Analytics
+#  GitHub Analytics
 
 
 <p align="center">
@@ -109,13 +111,6 @@
 </p>
 
 
-
-
-
-
----
-
-  
 <p align="center">
   <img src="https://github.com/KrushnaD7/KrushnaD7/blob/output/snake.svg" />
 </p>
