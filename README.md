@@ -70,8 +70,12 @@
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-stats-alpha.vercel.app/api?username=KrushnaD7&cc=22272e&tc=37BCF6&ic=EFDB43&bc=000000" />
-  <img width="48%" src="https://github-stats-alpha.vercel.app/api/top-langs/?username=KrushnaD7&layout=compact&cc=22272e&tc=37BCF6&ic=EFDB43&bc=000000" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KrushnaD7&theme=tokyonight" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KrushnaD7&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KrushnaD7&theme=tokyonight" />
 </p>
 
 
