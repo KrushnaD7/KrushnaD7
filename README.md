@@ -13,13 +13,7 @@
 
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/30/3d/c7/303dc7d460a7615cba2c9545ad022d06.gif" width="700">
-</p>
-<p align="center">
-  <img src="https://i.gifer.com/origin/90/908b70ece80b2386b7f10f8917ac12b1.gif" width="600">
-</p>
-<p align="center">
-  <img src="https://i.gifer.com/3HeO.gif" width="600">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" width="700">
 </p>
 
 
