@@ -1,60 +1,56 @@
-<h1 align="center">👋 Hi, I'm <b>Krushna Dodke</b></h1>
-<h3 align="center">Python Developer • Data Science Learner • DSA in Python</h3>
-
----
-
+<!-- HEADER WITH TECH GRADIENT -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C0FF,100:FF00FF&height=120&section=header&text=Welcome%20to%20My%20Profile!&fontSize=28&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C0FF,100:FF00FF&height=180&section=header&text=Krushna%20Dodke%20🚀&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<p align="center">🌱 Learning Python, DSA and Data Science • 👨‍💻 Exploring NumPy, Pandas, Matplotlib & SQL</p>
+<h3 align="center">Python Developer • DSA Learner • Data Science (Learning)</h3>
+<p align="center">Building skills in Python, Data Science, and Computer Vision</p>
 
 ---
 
-## ✨ About Me
-- 🔥 Passionate **Python Developer**
-- 📊 Learning **Data Science foundations**
+## 🌟 About Me
+- 🐍 Python developer — writing clean & logical code  
+- 💡 Learning **Data Science (NumPy, Pandas, Visualization)**  
 - 🔍 Practicing **DSA in Python**  
 - 🤖 Exploring **OpenCV (Computer Vision)**  
-- 🎯 Goal → Become a **Data Scientist**
-- 📫 Reach me at: **krushna.dodke@gmail.com**
+- 🎯 Goal → Become a **Data Scientist**  
+- 📫 Email → **krushna.dodke@gmail.com**
 
 ---
 
-## 🛠 Tech Stack (Clean + Beautiful)
+# ⚙️ Tech Stack  
+*(All original logos — clean & professional)*
 
-### **Languages**
+## **Languages**
 <p>
   <img src="https://skillicons.dev/icons?i=python" height="50"/>
 </p>
 
-### **Data Analysis**
+## **Data Analysis**
 <p>
   <img src="https://skillicons.dev/icons?i=numpy,pandas" height="50"/>
 </p>
 
-### **Data Visualization**
+## **Data Visualization**
 <p>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
   <img src="https://img.shields.io/badge/Seaborn-4A4A55?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-### **Database**
+## **Database**
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" height="50"/>
 </p>
 
-### **Tools**
+## **Tools**
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" height="50"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
 </p>
 
 ---
 
-## 🎯 Problem Solving Platforms
-
+# 🎯 Problem Solving Platforms
 <p>
   <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
   <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
@@ -63,30 +59,30 @@
 
 ---
 
-## 🔥 Current Focus
-- 📚 Learning **Data Science Core**
-- 🔢 Strengthening **DSA in Python**
-- 🧪 Building small **Python projects**
-- 🧠 Exploring **OpenCV**
+# 📌 Current Focus
+- 🎓 Learning **Data Science Core Concepts**
+- 🧠 Improving **Python + DSA**
+- 🧪 Making **small real-world projects**
+- 🤖 Exploring **OpenCV**
 
 ---
 
-## 📊 Contribution Graph  
+# 📊 GitHub Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KrushnaD7&theme=react-dark&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KrushnaD7&theme=react-dark&hide_border=true&color=00C0FF" />
 </p>
 
 ---
 
-## 📈 GitHub Stats  
+# 📈 GitHub Stats  
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=KrushnaD7&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrushnaD7&layout=compact&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=KrushnaD7&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrushnaD7&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🤝 Connect With Me  
+# 🤝 Connect With Me  
 <p>
   <a><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:krushna.dodke@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -95,7 +91,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00FF,100:00C0FF&height=70&section=footer&text=Made%20with%20💙%20by%20KrushnaD7&fontSize=18&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,100:00C0FF&height=100&section=footer&text=Made%20with%20💙%20by%20KrushnaD7&fontSize=20&fontColor=ffffff" />
 </p>
 
 
