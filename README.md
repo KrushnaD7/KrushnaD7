@@ -8,6 +8,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00C0FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!;Learning+Python+and+Data+Science;Improving+DSA+Skills;Building+Real+World+Projects;Exploring+OpenCV+and+ML" />
 </p>
 
+
+---
+
+<!-- KD MINI LOGO -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KrushnaD7/KrushnaD7/main/kd_logo.png" width="90" />
+</p>
+
+---
+
 ---
 
 ## 🌟 About Me
@@ -16,7 +26,7 @@
 - 🧠 Practicing **DSA in Python**  
 - 🤖 Exploring **OpenCV**  
 - 🎯 Goal → Become a **Data Scientist**  
-- 📫 Email → **krushna.dodke@gmail.com**
+- 📫 Email → **krushna21dodke@gmail.com**
 
 ---
 
@@ -54,6 +64,26 @@
 
 ---
 
+# 🌀 Neon Divider
+
+# 🚀 Featured Projects  
+*(Automatic cards from GitHub)*  
+
+<p align="center">
+  <a href="https://github.com/KrushnaD7/DSA">
+    <img src="https://github-readme-stats-gamma-five-66.vercel.app/api/pin/?username=KrushnaD7&repo=DSA&theme=tokyonight&hide_border=true" />
+  </a>
+  
+  <a href="https://github.com/KrushnaD7/Bank-Management-System">
+    <img src="https://github-readme-stats-gamma-five-66.vercel.app/api/pin/?username=KrushnaD7&repo=Bank-Management-System&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+---
+
+
+---
+
 # 🎯 Problem Solving Platforms
 <p>
   <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
@@ -65,9 +95,6 @@
 
 # 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KrushnaD7&theme=tokyo-night&hide_border=true&area=true&custom_title=Krushna%20Dodke's%20Contribution%20Graph" width="95%"/>
-</p>
 
 <p align="center">
   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KrushnaD7&theme=tokyonight" />
@@ -78,12 +105,21 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KrushnaD7&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KrushnaD7&theme=tokyo-night&hide_border=true&area=true&custom_title=Krushna%20Dodke's%20Contribution%20Graph" width="95%"/>
+</p>
 
 
 
 
 
 
+---
+
+# 🐍 Animated Contribution Snake  
+<p align="center">
+  <img src="https://github.com/KrushnaD7/KrushnaD7/blob/output/snake.svg" />
+</p>
 
 
 ---
