@@ -70,9 +70,10 @@
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-psi-three-35.vercel.app/api?username=KrushnaD7&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats-psi-three-35.vercel.app/api/top-langs/?username=KrushnaD7&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-stats-alpha.vercel.app/api?username=KrushnaD7&cc=22272e&tc=37BCF6&ic=EFDB43&bc=000000" />
+  <img width="48%" src="https://github-stats-alpha.vercel.app/api/top-langs/?username=KrushnaD7&layout=compact&cc=22272e&tc=37BCF6&ic=EFDB43&bc=000000" />
 </p>
+
 
 
 
