@@ -1,25 +1,26 @@
-<!-- HEADER WITH TECH GRADIENT -->
+<!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C0FF,100:FF00FF&height=180&section=header&text=Krushna%20Dodke%20🚀&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C0FF,100:FF00FF&height=180&section=header&text=Krushna%20Dodke&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h3 align="center">Python Developer • DSA Learner • Data Science (Learning)</h3>
-<p align="center">Building skills in Python, Data Science, and Computer Vision</p>
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00C0FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!;Learning+Python+and+Data+Science;Improving+DSA+Skills;Building+Real+World+Projects;Exploring+OpenCV+and+ML" />
+</p>
 
 ---
 
 ## 🌟 About Me
-- 🐍 Python developer — writing clean & logical code  
-- 💡 Learning **Data Science (NumPy, Pandas, Visualization)**  
-- 🔍 Practicing **DSA in Python**  
-- 🤖 Exploring **OpenCV (Computer Vision)**  
+- 🐍 Python Developer  
+- 📊 Learning **Data Science (NumPy, Pandas, Visualization)**  
+- 🧠 Practicing **DSA in Python**  
+- 🤖 Exploring **OpenCV**  
 - 🎯 Goal → Become a **Data Scientist**  
 - 📫 Email → **krushna.dodke@gmail.com**
 
 ---
 
-# ⚙️ Tech Stack  
-*(All original logos — clean & professional)*
+# ⚙️ Tech Stack (Professional Icons)
 
 ## **Languages**
 <p>
@@ -28,7 +29,9 @@
 
 ## **Data Analysis**
 <p>
-  <img src="https://skillicons.dev/icons?i=numpy,pandas" height="50"/>
+  <img src="https://skillicons.dev/icons?i=python" height="50"/>
+  <img src="https://skillicons.dev/icons?i=numpy" height="50"/>
+  <img src="https://skillicons.dev/icons?i=pandas" height="50"/>
 </p>
 
 ## **Data Visualization**
@@ -37,8 +40,9 @@
   <img src="https://img.shields.io/badge/Seaborn-4A4A55?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-## **Database**
+## **Databases**
 <p>
+  <img src="https://skillicons.dev/icons?i=postgres" height="50"/>
   <img src="https://skillicons.dev/icons?i=mysql" height="50"/>
 </p>
 
@@ -59,22 +63,12 @@
 
 ---
 
-# 📌 Current Focus
-- 🎓 Learning **Data Science Core Concepts**
-- 🧠 Improving **Python + DSA**
-- 🧪 Making **small real-world projects**
-- 🤖 Exploring **OpenCV**
+# 📈 GitHub Analytics (Graph + Stats Combined)
 
----
-
-# 📊 GitHub Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KrushnaD7&theme=react-dark&hide_border=true&color=00C0FF" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=KrushnaD7&theme=react-dark&hide_border=true&area=true" />
 </p>
 
----
-
-# 📈 GitHub Stats  
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=KrushnaD7&show_icons=true&theme=tokyonight&hide_border=true" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrushnaD7&layout=compact&theme=tokyonight&hide_border=true" />
@@ -91,7 +85,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,100:00C0FF&height=100&section=footer&text=Made%20with%20💙%20by%20KrushnaD7&fontSize=20&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,100:00C0FF&height=110&section=footer&text=Made%20with%20💙%20by%20KrushnaD7&fontSize=22&fontColor=ffffff" />
 </p>
 
 
