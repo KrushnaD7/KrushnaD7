@@ -9,7 +9,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 - 🐍 Learning **Python deeply**  
 - 📊 Exploring **NumPy, Pandas & Data Visualization**  
@@ -84,7 +84,7 @@ A Python project using file handling to simulate basic bank operations.
 
 ## 🌐 Connect With Me
 
-📧 **Email:** krushna.dodke@gmail.com  
+📧 **Email:** krushna21dodke@gmail.com  
 🐙 **GitHub:** https://github.com/KrushnaD7  
 
 ---
@@ -92,7 +92,7 @@ A Python project using file handling to simulate basic bank operations.
 ## ❤️ Support
 
 If you like my work, consider ⭐ starring my repositories!  
-It motivates me to keep learning and building 🚀
+It motivates me to keep learning and building 
 
 ---
 
